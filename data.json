@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "todo": "Do exercise",
+        "name": "admin",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "todo": "Do exercise",
+        "name": "admin",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "todo": "Eat lunch ",
+        "name": "admin",
+        "completed": true
+    }
+]
